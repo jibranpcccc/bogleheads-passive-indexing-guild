@@ -4,10 +4,17 @@
     <title>Bogleheads Passive Indexing Guild</title>
     <link>https://bogleheads-passive-indexing-guild.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:46:22 GMT</lastBuildDate>
     <atom:link href="https://bogleheads-passive-indexing-guild.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/stocks Market News (Reddit)</title>
+      <link>https://www.reddit.com/r/stocks/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-reddit-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:46:22 GMT</pubDate>
+      <description>Newly verified community added to Bogleheads Passive Indexing Guild: Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/investing Long Term Wealth (Reddit)</title>
       <link>https://www.reddit.com/r/investing/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-reddit-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-telegram-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:10:03 GMT</pubDate>
       <description>Newly verified community added to Bogleheads Passive Indexing Guild: Pre-market gappers, earnings calendars, upgrade/downgrade tickers, and volume alerts.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TradingView Official Idea Stream (Telegram)</title>
-      <link>https://t.me/tradingview</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-telegram-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:07:15 GMT</pubDate>
-      <description>Newly verified community added to Bogleheads Passive Indexing Guild: Top community published charts, script releases, algorithmic backtests, and indicator updates.</description>
     </item>
   </channel>
 </rss>
