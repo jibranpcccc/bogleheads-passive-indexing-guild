@@ -4,10 +4,17 @@
     <title>Bogleheads Passive Indexing Guild</title>
     <link>https://bogleheads-passive-indexing-guild.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:07:32 GMT</lastBuildDate>
     <atom:link href="https://bogleheads-passive-indexing-guild.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/personalfinance Money Management (Reddit)</title>
+      <link>https://www.reddit.com/r/personalfinance/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-reddit-3-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:07:32 GMT</pubDate>
+      <description>Newly verified community added to Bogleheads Passive Indexing Guild: The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/stocks Market News (Reddit)</title>
       <link>https://www.reddit.com/r/stocks/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-reddit-2-2026-11-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-telegram-20261021-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:07:35 GMT</pubDate>
       <description>Newly verified community added to Bogleheads Passive Indexing Guild: Leverage trading setups, funding rate anomalies, liquidation heatmaps, and breakout alerts.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Stock Market Movers &amp; Watchlists (Telegram)</title>
-      <link>https://t.me/stockmarket</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/bogleheads-passive-indexing-guild/#bogleheads-passive-indexing-guild-telegram-20261020-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:10:03 GMT</pubDate>
-      <description>Newly verified community added to Bogleheads Passive Indexing Guild: Pre-market gappers, earnings calendars, upgrade/downgrade tickers, and volume alerts.</description>
     </item>
   </channel>
 </rss>
